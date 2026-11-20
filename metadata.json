@@ -1,0 +1,6 @@
+{
+  "name": "Brew & Bliss",
+  "description": "Slow Mornings. Beautifully Brewed. Modern European café, artisanal menu, and online ordering platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
